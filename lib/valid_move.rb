@@ -1,5 +1,10 @@
 # code your #valid_move? method here
 def valid_move?(board,index)
+  if (move is valid)
+    true 
+  else 
+    false 
+  end
 end
 
 
